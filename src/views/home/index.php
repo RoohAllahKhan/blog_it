@@ -1,0 +1,1 @@
+<h1>Welcome <?= $data['name'] ? $data['name'] : "Guest" ?>!</h1>
